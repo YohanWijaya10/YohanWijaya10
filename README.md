@@ -1,6 +1,6 @@
 <div align="center"  />
 
-# <samp>Hi there 👋 <br> I am <a href="https://rebrand.ly/probo-krishnacahya">Probo Krishnacahya</a>, nice to meet you.</samp>
+# <samp>Hi there 👋 <br> I am <a href="">Yohan Wijaya</a>, nice to meet you.</samp>
 
 [![Gmail Badge](https://img.shields.io/badge/-yohanwijaya10@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:yohanwijaya10@gmail.com)](mailto:yohanwijaya10@gmail.com)
 
