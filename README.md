@@ -11,7 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohanwijaya10&layout=compact&langs_count=25&border_radius=16px&border_color=B85776&theme=dracula)](https://github.com/Yohanwijaya10/github-readme-stats) &nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yohanwijaya10&border_color=61D9FA&theme=react&border_radius=16&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Yohanwijaya10&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/Yohanwijaya10/github-readme-stats)
-
+![Gambar 1](https://example.com/image1.png)
+![Gambar 2](https://example.com/image2.png)
+![Alt text](url_gambar)
 <hr>
 
 Yohan Wijaya
