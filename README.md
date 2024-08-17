@@ -3,6 +3,7 @@ https://github.com/YohanWijaya10/YohanWijaya10/blob/main/Desain%20tanpa%20judul-
   ![Gambar 2](Desain tanpa judul-6.png)
 ![Gambar 2]([https://example.com/image2.png](https://example.com/image2.png](https://github.com/YohanWijaya10/YohanWijaya10/blob/main/Desain%20tanpa%20judul-6.png))
 # <samp>Hi there 👋 <br> I am <a href="">Yohan Wijaya</a>, nice to meet you.</samp>
+![Alt text](Desain tanpa judul-6.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-yohanwijaya10@gmail.com-C5221F?style=plastic&logo=gmail&logoColor=white&link=mailto:yohanwijaya10@gmail.com)](mailto:yohanwijaya10@gmail.com)
 
