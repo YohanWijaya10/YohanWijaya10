@@ -1,4 +1,6 @@
 <div align="center"  />
+https://github.com/YohanWijaya10/YohanWijaya10/blob/main/Desain%20tanpa%20judul-6.png
+  ![Gambar 2]([https://example.com/image2.png](https://github.com/YohanWijaya10/YohanWijaya10/blob/main/Desain%20tanpa%20judul-6.png))
 
 # <samp>Hi there 👋 <br> I am <a href="">Yohan Wijaya</a>, nice to meet you.</samp>
 
