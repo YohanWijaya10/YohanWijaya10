@@ -16,7 +16,7 @@ https://github.com/YohanWijaya10/YohanWijaya10/blob/main/Desain%20tanpa%20judul-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Yohanwijaya10&count_private=true&show_icons=true&include_all_commits=true&icon_color=AEFDFF&border_radius=16px&border_color=628FDB&theme=tokyonight)](https://github.com/Yohanwijaya10/github-readme-stats)
 ![Gambar 1](https://example.com/image1.png)
 ![Gambar 2](https://example.com/image2.png)
-![Alt text](Desai.png)
+![Alt text](Desain.png)
 <hr>
 
 Yohan Wijaya
