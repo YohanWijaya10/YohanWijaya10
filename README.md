@@ -1,8 +1,8 @@
 <div align="center"  />
 
-# <samp>Hi there 👋 <br> I am <a href="">Yohan Wijaya</a>, nice to meet you.</samp>
+# <samp>Hi there 👋 <br> I am <a href="">Kevin </a>, nice to meet you.</samp>
 
-![Alt text](Desain.png)
+![Alt text](Untitled.png)
 <hr>
 
 Yohan Wijaya
