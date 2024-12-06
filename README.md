@@ -4,9 +4,6 @@
 #### 🚀 Smart Contract Developer | Web3 Enthusiast | Blockchain Builder  
 
 ---
-
-![Banner](https://your-banner-image-link)  
-
 </div>
 
 ## 💡 About Me  
