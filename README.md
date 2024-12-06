@@ -37,10 +37,11 @@ I’m passionate about building secure and innovative decentralized applications
 
 | **Project**        | **Description**                                     | **Tech Used**              |  
 |---------------------|-----------------------------------------------------|----------------------------|  
+| [Aeternus: Trusted Freelancer-Client Platform](https://github.com/YohanWijaya10/Aeternus)    | Aeternus is a blockchain DApp connecting freelancers and clients with trust and secure payments, no intermediaries needed.      | Solidity, Ethers.js, Next.js, Thirdweb|  
 | [DeFi Lending App](https://github.com/your-project-link)  | A decentralized platform for lending/borrowing crypto.  | Solidity, React, Hardhat   |  
 | [NFT Auction House](https://github.com/your-project-link) | Auction platform for NFTs with dynamic pricing.         | Solidity, Web3.js, React   |  
-| [DAO Governance](https://github.com/your-project-link)    | Decentralized voting and proposal system for DAOs.      | Solidity, Ethers.js, Next.js, Thirdweb|  
-| [Aeternus: Trusted Freelancer-Client Platform](https://github.com/YohanWijaya10/Aeternus)    | Aeternus is a blockchain DApp connecting freelancers and clients with trust and secure payments, no intermediaries needed.      | Solidity, Ethers.js, Next.js|  
+| [DAO Governance](https://github.com/your-project-link)    | Decentralized voting and proposal system for DAOs.      | Solidity, Ethers.js, Next.js|  
+
 
 ---
 
